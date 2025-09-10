@@ -1,0 +1,98 @@
+%msg0%
+You awake and your door looks a bit off
+1) Open the door %1%
+2) Jump out the window %2%
+%msg0%
+%msg1%
+(Open the door)
+On the other side of your door you find a zoo
+1) Go inside the zoo %3%
+2) Go back and jump out the window %2%
+%msg1%
+%msg2%
+(Jump out the window)
+You jump out your window and now your legs hurt
+1) Go to your front door %4%
+2) Go to walmart %5%
+%msg2%
+%msg3%
+(Go inside the zoo)
+You enter into the zoo and you find a bunch of KO'd animals and you can't get back
+1)Check on one of the animals %6%
+2)Walk around the zoo %7%
+%msg3%
+%msg4%
+(Go to your front door)
+You relize you don't have a key to your house
+1)Break in the window with a rock %8%
+2)Go to walmart %5%
+%msg4%
+%msg5%
+(Go to walmart)
+You make it to walmart
+1)Go inside %9%
+2)Go home %4%
+%msg5%
+%msg6%
+(Check out one of the animals)
+You check out a girrafe and it seems to have had the crap beaten out of it
+1)Walk around the zoo %7%
+%msg6%
+%msg7%
+(Walk around the zoo)
+You walk around and hear the sound of fighting
+1)walk towards the sounds %10%
+%msg7%
+%msg8%
+(Break into the window with a rock)
+Great you now have a broken window you should probably replace that
+1)Go to walmart to get a new window %5%
+2)Leave it like that %11%
+%msg8%
+%msg9%
+(Go inside walmart)
+you find all the people are KO'd on the floor
+1)check one of them out %12%
+2)walk into the walmart %13%
+%msg9%
+%msg10%
+(Walk towards the sound of fighting in the zoo)
+You find Sun Tzu beating the crap out of every animal
+1)Run %14%
+2)Fight %14%
+%msg10%
+%msg11%
+(Leave your window broken)
+Sun Tzu enters through your broken window
+1)Run %14%
+2)Fight %14%
+%msg11%
+%msg12%
+(Check out a KO'd guy)
+He seems to have had the crap beaten out of him
+1)Go into walmart %13%
+2)Go back home %4%
+%msg12%
+%msg13%
+(Walk around Walmart)
+You hear the sounds of fighting
+1)Go to it %15%
+2)Go home %4%
+%msg13%
+%msg14%
+(Sun Tzu)
+Sun Tzu beats the CRAP out of you
+1)Listen to him %16%
+2)Listen to him %16%
+3)Listen to him
+%msg14%
+%msg15%
+(Go to the sounds of fighting in walmart)
+You find Sun Tzu beating the crap out of all the people in walmart
+1)Run %14%
+2)Fight %14%
+%msg15%
+%msg16%
+(Listen to him)
+"If fighting is sure to result in victory then you must fight" I said that. And I think I know a little more about fighting than you do pal. Because I invented it, and then I perfected it, so that no living man would best me in the ring of honor.
+%msg16%

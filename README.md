@@ -5,4 +5,6 @@
 
 ### Usage
 run the `main.py`
-input '1' or '2' to continue through the line
+input '1' or '2' to continue through the line text
+...
+#### Path Modification

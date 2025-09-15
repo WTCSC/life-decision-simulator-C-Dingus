@@ -6,5 +6,23 @@
 ### Usage
 run the `main.py`
 input '1' or '2' to continue through the line text
---------------------
-#### Path Modification
+
+### Path Modification
+To edit the text paths edit the `messages.ook` file with the fallowing syntax
+
+```
+%msg(message number)%
+(your message)
+1.(option 1) %(message to run for option 1)%
+2.(option 2) %(message to run for option 2)%
+%msg(message number)%
+```
+#### Example
+
+```
+%msg0%
+You reach a fork in the road
+1. Go left %1%
+2. Go right %2%
+%msg0%
+```
